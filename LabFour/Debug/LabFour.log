@@ -1,0 +1,8 @@
+﻿  Circle.cpp
+  LabFour.cpp
+F:\IVT\OOP_Mine\Class-N2\LabFour\LabFour\LabFour\Circle.h(7,16): warning C4305:  инициализация: усечение из "double" в "float"
+  Rectangle.cpp
+  Square.cpp
+  Создание кода...
+F:\IVT\OOP_Mine\Class-N2\LabFour\LabFour\LabFour\Circle.h(7,16): warning C4305:  инициализация: усечение из "double" в "float"
+  LabFour.vcxproj -> F:\IVT\OOP_Mine\Class-N2\LabFour\LabFour\Debug\LabFour.exe
