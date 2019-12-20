@@ -6,10 +6,10 @@ class Circle:
 private:
 	float _pi=3.14, _r;
 public:
-	Circle();
-	void setRadius(float r);
-	float areaFigure();
-	float perimetrFigure();
-	float getR();
+	Circle(); //Конструктор
+	void setRadius(float r); //сеттер радиуса
+	float areaFigure(); // площадь фигуры
+	float perimetrFigure(); // периметр фигуры
+	float getR(); // геттер радиуса
 };
 

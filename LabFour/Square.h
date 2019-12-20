@@ -5,10 +5,10 @@ class Square:
 {private:
 	float _a;
 public:
-	Square();
-	void setSide(float _a);
-	float areaFigure();
-	float perimetrFigure();
-	float getA();
+	Square(); // конструктор
+	void setSide(float _a); //сеттер стороны
+	float areaFigure(); //площадь фигуры
+	float perimetrFigure(); // периметр фигуры
+	float getA(); // геттер А
 };
 
